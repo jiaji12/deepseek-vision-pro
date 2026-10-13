@@ -1,0 +1,10 @@
+{
+  "base_url": "https://open.bigmodel.cn/api/paas/v4",
+  "api_key": "在这里填你的智谱key",
+  "model": "glm-4v-flash",
+  "max_tokens": 1024,
+  "max_image_dimension": 2048,
+  "max_upload_mb": 5,
+  "headers": {},
+  "prompt": "请仔细描述这张(些)图片的内容。如果是截图，请逐条提取上面所有文字（报错信息、聊天记录、表格、界面内容等），不要总结、不要省略，用中文回答。"
+}

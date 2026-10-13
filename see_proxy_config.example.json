@@ -1,0 +1,14 @@
+{
+  "listen_port": 8777,
+  "upstream_base": "https://api.deepseek.com",
+  "upstream_key": "在这里填你的DeepSeek key",
+  "agnes_base_url": "https://open.bigmodel.cn/api/paas/v4",
+  "agnes_api_key": "在这里填你的智谱key",
+  "agnes_model": "glm-4v-flash",
+  "agnes_max_tokens": 1024,
+  "see_py": "",
+  "see_fallback": "",
+  "enable_debug": true,
+  "max_image_mb": 8,
+  "image_thinking_off": true
+}
