@@ -1,0 +1,19 @@
+# === 真实密钥配置（只提交 *.example.json 模板）===
+config.json
+see_proxy_config.json
+.see_config.json
+
+# === 运行产物 ===
+*.log
+see_proxy.log
+see_proxy_watchdog.log
+__pycache__/
+*.pyc
+*.pyo
+
+# === 编辑器 / 系统 ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
